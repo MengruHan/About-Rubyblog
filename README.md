@@ -5,7 +5,7 @@
 ## The fundamentals of MVC (Model, View, Controller) and REST architecture;
 ## How to quickly generate Rails application skeletons
 <p><a
-href="https://ruby-china.github.io/rails-guides/getting_started.html">Study Link</a></p>
+href="https://ruby-china.github.io/rails-guides/getting_started.html">Link</a></p>
 
 
 
