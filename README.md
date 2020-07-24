@@ -1,4 +1,4 @@
-# rails in ruby
+# rails on ruby
 # Create a blog application using Rails. 
 ## How to install Rails, create Rails applications, and connect to a database;
 ## The basic file structure of Rails applications;
