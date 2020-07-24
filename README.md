@@ -1,5 +1,5 @@
 # rails on ruby
-# Create a blog application using Rails. 
+## Create a blog application using Rails. 
 ## How to install Rails, create Rails applications, and connect to a database;
 ## The basic file structure of Rails applications;
 ## The fundamentals of MVC (Model, View, Controller) and REST architecture;
